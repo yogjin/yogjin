@@ -1,6 +1,5 @@
-### Hi there 👋
+![Lucky Dev Inn](https://user-images.githubusercontent.com/33623078/180817469-85831d48-d429-47e1-8e55-b7745409b464.gif)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyogjin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **yogjin/yogjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
